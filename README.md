@@ -21,7 +21,7 @@
 
 ##### Machine Learning
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=fff&style=plastic)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=fff&style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ##### Analytics / Visualisation
