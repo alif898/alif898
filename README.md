@@ -1,9 +1,9 @@
-### Hi there ✨
+## Hi there ✨
  - I'm an undergraduate at National University of Singapore, studying Economics & Business Analytics
  - I am interested in everything data! Anything from data engineering to data science, including machine/deep learning, as well as big data systems!
  - Feel free to checkout my personal projects, where I try to expose myself to new technologies and explore interesting data problems!
 
-### My tech stack 👽
+## My tech stack 👽
 
 ##### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -17,7 +17,7 @@
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ##### Machine Learning
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -31,7 +31,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 
-#### Visitor Count 🙆‍♀️
+## Visitor Count 🙆‍♀️
 
 Thank you for visiting and do get in [touch](https://www.linkedin.com/in/alifnaufal/)!
 
