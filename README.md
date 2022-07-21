@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=alif898&color=ff69b4&label=Visitors)
+
 <!--
 **alif898/alif898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
