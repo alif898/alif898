@@ -37,4 +37,4 @@
 
 Thank you for visiting and do get in [touch](https://www.linkedin.com/in/alifnaufal/)!
 
-![](https://komarev.com/ghpvc/?username=alif898&color=ff69b4&label=Visitors)
+![](https://komarev.com/ghpvc/?username=alif898&color=ff69b4&label=Visitors?style=flat-square)
