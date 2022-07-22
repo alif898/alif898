@@ -6,7 +6,7 @@
 ## My tech stack 👽
 
 ##### Languages
-![Java Badge](https://img.shields.io/badge/-Java-blueviolet?style=flat-square)
+![Java Badge](https://img.shields.io/badge/-Java-f89820?style=flat-square)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
 ![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat-square)
 
@@ -23,11 +23,14 @@
 ![Keras Badge](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff&style=flat-square)
 ![MLflow Badge](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=fff&style=flat-square)
 ![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=flat-square)
+![Spark MLlib Badge](https://img.shields.io/badge/-Spark%20MLlib-orange?style=flat-square)
+![statsmodels Badge](https://img.shields.io/badge/-statsmodels-3f51b5?style=flat-square)
 
 ##### Analytics / Visualisation
 ![Folium Badge](https://img.shields.io/badge/Folium-77B829?logo=folium&logoColor=fff&style=flat-square)
 ![Google Analytics Badge](https://img.shields.io/badge/Google%20Analytics-E37400?logo=googleanalytics&logoColor=fff&style=flat-square)
 ![Metabase Badge](https://img.shields.io/badge/Metabase-509EE3?logo=metabase&logoColor=fff&style=flat-square)
+![NLTK Badge](https://img.shields.io/badge/-NLTK-lightgrey?style=flat-square)
 ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat-square)
 ![Plotly Badge](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=fff&style=flat-square)
 ![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat-square)
