@@ -23,7 +23,7 @@
 ![Keras Badge](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff&style=flat-square)
 ![MLflow Badge](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=fff&style=flat-square)
 ![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=flat-square)
-![Spark MLlib Badge](https://img.shields.io/badge/-Spark%20MLlib-orange?style=flat-square)
+![Spark MLlib Badge](https://img.shields.io/badge/-Spark%20MLlib-E25A1C?style=flat-square)
 ![statsmodels Badge](https://img.shields.io/badge/-statsmodels-3f51b5?style=flat-square)
 
 ##### Analytics / Visualisation
