@@ -1,9 +1,9 @@
-## Hi there ✨
- - I'm an undergraduate at National University of Singapore, studying Economics & Business Analytics
+### Hi there ✨
+ - I'm an undergraduate at National University of Singapore, studying Economics & Business Analytics 📈
  - I am interested in everything data! Anything from data engineering to data science, including machine/deep learning, as well as working with big data
- - Feel free to checkout my personal projects, where I try to expose myself to new technologies and explore interesting data problems!
+ - Feel free to checkout my personal projects ⬇️, where I try to expose myself to new technologies and explore interesting data problems!
 
-## My tech stack 👽
+### My tech stack 👽
 
 ##### Languages
 ![Java Badge](https://img.shields.io/badge/-Java-f89820?style=flat-square)
@@ -35,8 +35,7 @@
 ![Plotly Badge](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=fff&style=flat-square)
 ![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat-square)
 
-
-## Visitor Count 🙆‍♀️
+### Visitor Count 🙆‍♀️
 
 Thank you for visiting and do get in [touch](https://www.linkedin.com/in/alifnaufal/)!
 
