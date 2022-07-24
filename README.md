@@ -24,6 +24,8 @@
 ![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=flat-square)
 ![Spark MLlib Badge](https://img.shields.io/badge/-Spark%20MLlib-E25A1C?style=flat-square)
 ![statsmodels Badge](https://img.shields.io/badge/-statsmodels-3f51b5?style=flat-square)
+![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=flat-square)
+
 
 ##### Analytics / Visualisation
 ![Folium Badge](https://img.shields.io/badge/Folium-77B829?logo=folium&logoColor=fff&style=flat-square)
