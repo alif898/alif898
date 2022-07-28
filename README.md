@@ -1,9 +1,15 @@
 ### Hi there ✨
  - I'm an undergraduate at National University of Singapore, studying Economics & Business Analytics 📈
- - I am interested in everything data! Anything from data engineering to data science, including machine/deep learning, as well as working with big data
+ - I am interested in everything data! Anything from data engineering to data science, including machine/deep learning, as well as working with big data 🔥
  - Feel free to checkout my personal projects ⬇️, where I try to expose myself to new technologies and explore interesting data problems!
 
+
+<details>
+<summary>
+
 ### My tech stack 👽
+
+</summary>
 
 ##### Languages
 ![Java Badge](https://img.shields.io/badge/-Java-f89820?style=flat-square)
@@ -26,7 +32,6 @@
 ![statsmodels Badge](https://img.shields.io/badge/-statsmodels-3f51b5?style=flat-square)
 ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=flat-square)
 
-
 ##### Analytics / Visualisation
 ![Folium Badge](https://img.shields.io/badge/Folium-77B829?logo=folium&logoColor=fff&style=flat-square)
 ![Google Analytics Badge](https://img.shields.io/badge/Google%20Analytics-E37400?logo=googleanalytics&logoColor=fff&style=flat-square)
@@ -34,6 +39,8 @@
 ![NLTK Badge](https://img.shields.io/badge/-NLTK-lightgrey?style=flat-square)
 ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat-square)
 ![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat-square)
+
+</details>
 
 ### Visitor Count 🙆‍♀️
 
