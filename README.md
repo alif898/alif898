@@ -33,7 +33,6 @@
 ![Metabase Badge](https://img.shields.io/badge/Metabase-509EE3?logo=metabase&logoColor=fff&style=flat-square)
 ![NLTK Badge](https://img.shields.io/badge/-NLTK-lightgrey?style=flat-square)
 ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat-square)
-![Plotly Badge](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=fff&style=flat-square)
 ![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat-square)
 
 ### Visitor Count 🙆‍♀️
