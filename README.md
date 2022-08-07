@@ -1,6 +1,6 @@
 ### Hi there ✨
  - I'm an undergraduate at National University of Singapore, studying Economics & Business Analytics 📈
- - I am interested in everything data! Anything from data engineering to data science, including machine/deep learning, as well as working with big data 🔥
+ - I'm passionate about everything data! Anything from data engineering to data science, including machine/deep learning, as well as working with big data 🔥
  - Feel free to checkout my personal projects ⬇️, where I try to expose myself to new technologies and explore interesting data problems!
 
 
@@ -20,6 +20,7 @@
 ![Apache Airflow Badge](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff&style=flat-square)
 ![Apache Spark Badge](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff&style=flat-square)
 ![Databricks Badge](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff&style=flat-square)
+![Delta Lake Badge](https://img.shields.io/badge/-%20Delta%20Lake-00add4?style=flat-square)
 ![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=flat-square)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)
