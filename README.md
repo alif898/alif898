@@ -15,6 +15,7 @@
 ![Java Badge](https://img.shields.io/badge/-Java-f89820?style=flat-square)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
 ![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat-square)
+![SQL Badge](https://img.shields.io/badge/-SQL-inactive?style=flat-square)
 
 ##### Data Engineering / Developer Tools
 ![Apache Airflow Badge](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff&style=flat-square)
@@ -38,8 +39,10 @@
 ![Google Analytics Badge](https://img.shields.io/badge/Google%20Analytics-E37400?logo=googleanalytics&logoColor=fff&style=flat-square)
 ![Metabase Badge](https://img.shields.io/badge/Metabase-509EE3?logo=metabase&logoColor=fff&style=flat-square)
 ![NLTK Badge](https://img.shields.io/badge/-NLTK-lightgrey?style=flat-square)
+![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat-square)
 ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat-square)
 ![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat-square)
+![Tidyverse Badge](https://img.shields.io/badge/Tidyverse-1A162D?logo=tidyverse&logoColor=fff&style=flat-square)
 
 </details>
 
