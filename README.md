@@ -21,7 +21,6 @@
 ![Apache Airflow Badge](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff&style=flat-square)
 ![Apache Spark Badge](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff&style=flat-square)
 ![Databricks Badge](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff&style=flat-square)
-![Delta Lake Badge](https://img.shields.io/badge/-%20Delta%20Lake-00add4?style=flat-square)
 ![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=flat-square)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat-square)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)
@@ -30,7 +29,7 @@
 ![Keras Badge](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff&style=flat-square)
 ![MLflow Badge](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=fff&style=flat-square)
 ![scikit-learn Badge](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=flat-square)
-![Spark MLlib Badge](https://img.shields.io/badge/-Spark%20MLlib-E25A1C?style=flat-square)
+![Spark ML Badge](https://img.shields.io/badge/-Spark%20ML-E25A1C?style=flat-square)
 ![statsmodels Badge](https://img.shields.io/badge/-statsmodels-3f51b5?style=flat-square)
 ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=flat-square)
 
