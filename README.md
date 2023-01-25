@@ -40,7 +40,6 @@
 ![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat-square)
 ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat-square)
 ![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat-square)
-![Tidyverse Badge](https://img.shields.io/badge/Tidyverse-1A162D?logo=tidyverse&logoColor=fff&style=flat-square)
 
 </details>
 
