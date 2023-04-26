@@ -33,7 +33,6 @@
 ![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=flat-square)
 
 ##### Analytics / Visualisation
-![Folium Badge](https://img.shields.io/badge/Folium-77B829?logo=folium&logoColor=fff&style=flat-square)
 ![Google Analytics Badge](https://img.shields.io/badge/Google%20Analytics-E37400?logo=googleanalytics&logoColor=fff&style=flat-square)
 ![Metabase Badge](https://img.shields.io/badge/Metabase-509EE3?logo=metabase&logoColor=fff&style=flat-square)
 ![NLTK Badge](https://img.shields.io/badge/-NLTK-lightgrey?style=flat-square)
