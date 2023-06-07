@@ -30,6 +30,7 @@
 
 ##### Data Science / Machine Learning
 ![Keras Badge](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff&style=flat-square)
+![MLflow Badge](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=fff&style=flat-square)
 ![NLTK Badge](https://img.shields.io/badge/-NLTK-lightgrey?style=flat-square)
 ![NumPy Badge](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=flat-square)
 ![pandas Badge](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=flat-square)
