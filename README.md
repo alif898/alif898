@@ -46,7 +46,7 @@
 
 </details>
 
-### Visitor Count 🙆‍♀️
+### Visitor Count :wave:
 
 Thank you for visiting and do get in [touch](https://www.linkedin.com/in/alifnaufal/)!
 
