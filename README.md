@@ -13,6 +13,7 @@
 
 ##### Languages
 ![Java Badge](https://img.shields.io/badge/-Java-f89820?style=flat-square)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
 ![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=flat-square)
 ![SQL Badge](https://img.shields.io/badge/-SQL-inactive?style=flat-square)
