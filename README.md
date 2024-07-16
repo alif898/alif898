@@ -1,7 +1,7 @@
 ### Hi there ✨
- - I'm an undergraduate at National University of Singapore, studying Economics & Business Analytics 📈
+ - I studied Economics & Business Analytics at National University of Singapore📈
  - I'm passionate about everything data! Anything from data engineering to data science, including machine/deep learning, as well as working with big data 🔥
- - Feel free to checkout my personal projects ⬇️, where I try to expose myself to new technologies and explore interesting data problems!
+ - Feel free to checkout my personal projects ⬇️, where I try to expose myself to new technologies and explore interesting problems!
 
 
 <details>
